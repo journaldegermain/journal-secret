@@ -1,11 +1,11 @@
 {
-  "name": "Journal Secret de Germain",
+  "name": "Journal Secret",
   "short_name": "Journal",
   "start_url": "/journal-secret/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4a148c",
-  "description": "Un journal secret numérique avec retour en arrière de 1 an.",
+  "theme_color": "#000000",
+  "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
