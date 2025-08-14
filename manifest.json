@@ -1,7 +1,21 @@
 {
-  "name": "Journal secret numérique",
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "short_name": "journal secret numérique",
-  "description": "Partagez vos émotions et plus encore avec ce journal secret numérique 100% gratuit"
+  "name": "Journal Secret de Germain",
+  "short_name": "Journal",
+  "start_url": "/journal-secret/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a148c",
+  "description": "Un journal secret numérique avec retour en arrière de 1 an.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
